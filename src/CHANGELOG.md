@@ -1,5 +1,17 @@
 # viem
 
+## 2.0.0
+
+### Major Changes
+
+- [`948b4ff1`](https://github.com/wevm/viem/commit/948b4ff18957191ae164c82bdbeebebc65e17076) Thanks [@jxom](https://github.com/jxom)! - Viem 2.0 featuring:
+
+  - [Low-level OP Stack extensions](https://viem.sh/op-stack.html),
+  - Enhanced types,
+  - Miscellaneous improvements and bug fixes.
+
+  [Breaking Changes & Migration Guide](https://viem.sh/docs/migration-guide.html)
+
 ## 1.21.4
 
 ### Patch Changes
