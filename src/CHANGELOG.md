@@ -1,5 +1,11 @@
 # viem
 
+## 2.7.3
+
+### Patch Changes
+
+- [#1759](https://github.com/wevm/viem/pull/1759) [`7d89ce8a4021719aba74c62c54228b9bc51ac9c9`](https://github.com/wevm/viem/commit/7d89ce8a4021719aba74c62c54228b9bc51ac9c9) Thanks [@maxencerb](https://github.com/maxencerb)! - Added `stateOverride` property to `call`, `simulateContract`, `readContract`, and `multicall`.
+
 ## 2.7.2
 
 ### Patch Changes
